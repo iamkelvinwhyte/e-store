@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-12 01:01:20 --> 404 Page Not Found: /index
+ERROR - 2021-02-12 01:02:23 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-02-12 01:02:23 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:02:23 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:02:23 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:02:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-02-12 01:02:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-02-12 01:02:33 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:02:40 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:04:42 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:04:42 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:04:42 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:04:56 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:05:03 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:10:22 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:10:22 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:10:38 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:10:46 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:11:13 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:11:13 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:11:13 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:11:15 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:11:15 --> 404 Page Not Found: Images/Shop
+ERROR - 2021-02-12 01:11:15 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:11:23 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:11:30 --> 404 Page Not Found: Images/Home-Slider
+ERROR - 2021-02-12 01:15:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-02-12 01:16:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-02-12 01:17:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-02-12 01:17:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-02-12 01:17:38 --> 404 Page Not Found: Shophtml/index
